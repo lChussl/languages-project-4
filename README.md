@@ -1,6 +1,7 @@
 # IC-4700 | Project 4 - Imperative Coding
+# Jesús Araya Chaves | 2021106062
 
-The idea of this project is to create Lau-kata-kati game using the coding language C.
+The idea of this project is to create Lau-kata-kati game using the programming language C.
 
 Lau-kata-kati is a game similar to Chinese Checkers but simplified, where two opponents
 face off on a butterfly-shaped game board with the aim of capturing opposing pieces or
